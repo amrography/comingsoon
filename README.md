@@ -1,6 +1,8 @@
-# Coming soon template
+# Simple coming soon template
 
 Simple coming soon page. Just logo and title centered in vertical and horizontal.
+
+`git clone https://github.com/amrography/comingsoon.git my-site`
 
 !['./screenshot.png'](screenshot.png)
 > Photo generated automatically [http://unsplash.it/450/450?random&gravity=center](http://unsplash.it/450/450?random&gravity=center)
@@ -14,6 +16,7 @@ Generate your favicon from [https://realfavicongenerator.net/](https://realfavic
 ### Colors
 
 **Background color:** default is `#000000` search and replace it
+
 **Font color:** default is `#f1e7cd` search and replace it
 
 ### Font
